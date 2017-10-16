@@ -1,0 +1,50 @@
+#minhaarea{ 
+	
+	  width:17%;
+      position: relative;
+        color:white;
+        
+ 		
+ 		font-size: 18px;
+   background:#002222;
+}
+#minhaarea ul{
+text-decoration:none;
+list-style-type:none;
+}
+#minhaarea li{
+	padding:5%;
+}
+#minhaarea li a{
+text-decoration:none;
+}
+#minhaarea li:hover{
+	border-style: solid #005555;
+	position:relative; 
+	background:#005555;
+	height: 100%; 
+	z-index: 999;
+}
+#conteudo{
+	height: 400px;
+	width: 75%;
+	border-style: solid 2%;
+	float: right;
+	margin-right: 3%;
+	margin-top: -12%;
+
+}
+
+.mo{
+	height: 370px;
+}
+.botao{
+	margin:0;
+	border: none;
+	background-color: #002222;
+	width: 150px;
+	height: 40px;
+	color:white;
+	padding: 1%;
+	cursor:pointer;
+}
